@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-resumeinsight-staging-111503-authRole",
+      "UnauthRoleArn": "arn:aws:iam::941903281749:role/amplify-resumeinsight-staging-111503-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::941903281749:role/amplify-resumeinsight-staging-111503-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-resumeinsight-staging-111503-deployment",
+      "UnauthRoleName": "amplify-resumeinsight-staging-111503-unauthRole",
+      "StackName": "amplify-resumeinsight-staging-111503",
+      "StackId": "arn:aws:cloudformation:eu-north-1:941903281749:stack/amplify-resumeinsight-staging-111503/2efa5d10-1fdc-11ee-a428-0ad06610afe2",
+      "AmplifyAppId": "d1w45b5cg5jxgc"
+    },
+    "categories": {
+      "auth": {
+        "resumeinsight06ee70f3": {}
+      }
+    }
+  }
+}
