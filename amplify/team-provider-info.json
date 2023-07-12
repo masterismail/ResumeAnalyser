@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "resumeinsight06ee70f3": {}
+      },
+      "api": {
+        "resumeinsight": {}
+      },
+      "storage": {
+        "storage": {}
       }
     }
   }
