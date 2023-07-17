@@ -1,70 +1,44 @@
-# Getting Started with Create React App
+# Resume Analyzer
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The Resume Analyzer is a web application that utilizes AI and natural language processing techniques to analyze resumes uploaded by users. It provides valuable insights and evaluations on the content of the resumes, helping recruiters or HR professionals in the candidate selection process.
 
-## Available Scripts
+## Features
 
-In the project directory, you can runs:
+- Resume Analysis: The application uses advanced language models and machine learning techniques to extract information from resumes, such as candidate details, education history, work experience, skills, and more.
 
-### `npm start`
+- Keyword Matching: The system matches the extracted information against predefined keywords or phrases relevant to specific job positions. This allows for easy identification of key skills, qualifications, and experiences.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Scoring and Evaluation: The application assigns scores or weights to different sections or attributes of the resumes, enabling a quantitative evaluation of each candidate. This helps in ranking and comparing candidates based on predefined criteria.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- User-Friendly Interface: The web app provides an intuitive and user-friendly interface for users to upload resumes and view the analysis results. It offers clear visualizations, tables, and summary reports for easy interpretation.
 
-### `npm test`
+## Getting Started
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Follow these steps to get started with the Resume Analyzer:
 
-### `npm run build`
+1. Clone the repository:
+`git clone https://github.com/your-username/resume-analyzer.git`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+2. Install the required dependencies:
+`pip install -r requirements.txt`
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+3. Configure AWS Amplify:
+- Sign up for an AWS account and create an Amplify app.
+- Set up the necessary Amplify resources and configure the Amplify CLI.
+- Update the necessary AWS and Amplify configurations in the project.
 
-### `npm run eject`
+4. Run the application:
+python app.py
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+5. Access the web app:
+Open your web browser and visit `http://localhost:5000` to access the Resume Analyzer.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## License
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+The Resume Analyzer project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
-## Learn More
+## Contact
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deploymentt
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+If you have any questions or suggestions, feel free to contact us, We appreciate your feedback!
