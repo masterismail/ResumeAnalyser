@@ -1,5 +1,6 @@
 {
   "AppSyncApiName": "resumeinsight",
   "DynamoDBBillingMode": "PAY_PER_REQUEST",
-  "DynamoDBEnableServerSideEncryption": false
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthModeLastUpdated": "2023-07-12T15:23:50.809Z"
 }
